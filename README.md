@@ -11,7 +11,7 @@ CatarActNow is an Android-based application for detecting cataracts in the eye. 
 We created this application with the aim of helping cataract sufferers check for cataracts for free without going to the hospital.
 
 ### Awesome Members 👨‍👩‍👧‍👦
-Our team consists of seven great people with their own specialties. Here are the members of `CH2-PS128` team:
+Our team consists of seven great people with their own specialties. Here are the members of `C241-PS078` team:
 - Dwi Cahyo Nugroho (MD)
 - Alfin Kurniawan (MD)
 - Alnanda Kusuma (ML)
