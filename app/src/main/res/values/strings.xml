@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatarActNow</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Analyze</string>
+    <string name="title_notifications">News</string>
+    <string name="welcome">Welcome to CatarActNow !!!\nDetect Early Signs of Cataracts with Ease</string>
+</resources>
